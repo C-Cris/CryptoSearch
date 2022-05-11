@@ -14,7 +14,7 @@
         <th>Variación 24hs</th>
         <td class="hidden sm:block">
           <input
-            class="bg-green-800 focus:outline-none border-b border-green-800 py-2 px-4 block w-full appearance-none leading-normal text-black"
+            class="bg-black focus:outline-none border-b border-green-200 py-2 px-4 block w-full appearance-none leading-normal text-black"
             id="filter"
             placeholder="Buscar..."
             type="text"

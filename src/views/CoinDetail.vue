@@ -67,7 +67,7 @@
                 v-model="convertValue"
                 id="convertValue"
                 type="number"
-                class="text-green-200 text-center bg-black focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-2 px-4 block w-full appearance-none leading-normal"
+                class="text-green-200 text-center bg-black focus:outline-none focus:shadow-outline border border-green-300 rounded-lg py-2 px-4 block w-full appearance-none leading-normal"
                 :placeholder="`Valor en ${fromUsd ? 'USD' : asset.symbol}`"
               />
             </label>
